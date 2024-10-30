@@ -25,10 +25,10 @@ This project is a simple Python-based application that merges multiple PDF files
 
 ## Usage
 
-1. Run the `main` script:
+1. Run the `pdfnerger` script:
 
     ```bash
-    python main.py
+    python pdfmerger.py
     ```
 
 2. A file dialog will open for you to select a directory containing the PDF files to merge.
